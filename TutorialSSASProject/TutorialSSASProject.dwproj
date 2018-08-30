@@ -6,12 +6,24 @@
     <Name>TutorialSSASProject.database</Name>
     <FullPath>TutorialSSASProject.database</FullPath>
   </Database>
+  <Dimensions>
+    <ProjectItem>
+      <Name>Date.dim</Name>
+      <FullPath>Date.dim</FullPath>
+    </ProjectItem>
+  </Dimensions>
   <DataSources>
     <ProjectItem>
       <Name>Adventure Works DW2012.ds</Name>
       <FullPath>Adventure Works DW2012.ds</FullPath>
     </ProjectItem>
   </DataSources>
+  <DataSourceViews>
+    <ProjectItem>
+      <Name>Adventure Works DW2012.dsv</Name>
+      <FullPath>Adventure Works DW2012.dsv</FullPath>
+    </ProjectItem>
+  </DataSourceViews>
   <Configurations>
     <Configuration>
       <Name>Development</Name>
